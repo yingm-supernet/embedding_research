@@ -1,1 +1,1 @@
-# supernet-ai-Embedding_research
+# Embedding_research
